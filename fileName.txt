@@ -1,3 +1,1 @@
-Git is a version control system.
-<<<<<<< HEAD
-Git is free software.aaab
+Git is a version control system.cccccc
